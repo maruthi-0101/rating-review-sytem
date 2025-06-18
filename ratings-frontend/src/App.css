@@ -1,0 +1,40 @@
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #0041ff;
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+input, textarea {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-top: 8px;
+  width: 100%;
+  max-width: 400px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #0041ff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+button:hover {
+  background-color: #0031cc;
+}
